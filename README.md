@@ -1,1 +1,1 @@
-# blog-Card.
+# blog-Card
